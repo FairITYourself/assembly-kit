@@ -2,8 +2,6 @@
 
 Aktuell verschicken wir 3-Tastige-Bausätze.
 
-> :warning: Bitte aktuell noch die PDF verwenden!
-
 **Inhaltsverzeichnis**
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
 - [Benötigte Werkzeuge](#benötigte-werkzeuge)
@@ -69,7 +67,7 @@ Drehgeber für Mausrad<br><br>
 Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle<br><br>
 
 <img src="./image/gleitplättchen.png" alt="" width="250">
-Gleitplättchen
+Gleitplättchen<br><br>
 
 <img src="./image/assembly-kit-site-6.png" alt="" width="500">
 Platine (Vorder- und Rückseite mit Erklärung)
@@ -119,22 +117,22 @@ Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 <img src="./image/assembly-kit-site-14.png" alt="" width="500">
 
 ### USB Kabel
-1. Die Kabelisolation ca 25mm vom Ende her (Hülle)mit einem nicht zu scharfen Messer vorsichtig einkerben.
-<img src="./image/usb-1-1.png" alt="" height="150">
-2. Die Kabelisolation (Hülle) vorsichtig mit (dem Daumennagel) abziehen.
-<img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150">
-3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen)
-<img src="./image/usb-1-3.png" alt="" height="150">
-4. Drahtschirm verdrillen und den Folienschirm abwickeln
-<img src="./image/usb-1-4.png" alt="" height="150">
-5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden
-<img src="./image/usb-2-5.png" alt="" height="150">
-6. Das Ende des verdrillten Schirmgeflechtes verzinnen
-<img src="./image/usb-2-6.png" alt="" height="150">
-7. Die Isolation der Farbigen Adern an den Enden vorsichtig maximal 3mm entfernen
-<img src="./image/usb-2-7.png" alt="" height="150">
-8. Die Adern Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück
-<img src="./image/usb-2-8.png" alt="" height="150">
+1. Die Kabelisolation ca 25mm vom Ende her (Hülle)mit einem nicht zu scharfen Messer vorsichtig einkerben.<br>
+<img src="./image/usb-1-1.png" alt="" height="150"><br>
+2. Die Kabelisolation (Hülle) vorsichtig mit (dem Daumennagel) abziehen.<br>
+<img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150"><br>
+3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen)<br>
+<img src="./image/usb-1-3.png" alt="" height="150"><br>
+4. Drahtschirm verdrillen und den Folienschirm abwickeln<br>
+<img src="./image/usb-1-4.png" alt="" height="150"><br>
+5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden<br>
+<img src="./image/usb-2-5.png" alt="" height="150"><br>
+6. Das Ende des verdrillten Schirmgeflechtes verzinnen<br>
+<img src="./image/usb-2-6.png" alt="" height="150"><br>
+7. Die Isolation der Farbigen Adern an den Enden vorsichtig maximal 3mm entfernen<br>
+<img src="./image/usb-2-7.png" alt="" height="150"><br>
+8. Die Adern Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück<br>
+<img src="./image/usb-2-8.png" alt="" height="150"><br>
 9. Nun kann das USB Kabel in die Platine eingelötet werden
 
 <img src="./image/assembly-kit-site-17.png" alt="" width="500">
@@ -144,9 +142,11 @@ Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bl
 <img src="./image/assembly-kit-site-19.png" alt="" width="500">
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern, sollte man sich vor dem Berühren des Sensors selbst entladen haben, z.B. an der Erdung der Steckdose oder dem Metall eines Heizkörpers.
 
+## 
+
 ## Finaler Zusammenbau
 <img src="./image/zusammenbau-1.png" alt="" width="500">
-<img src="./image/zusammenbau-2.png" alt="" width="500">
-<img src="./image/zusammenbau-3.png" alt="" width="500">
-<img src="./image/zusammenbau-4.png" alt="" width="500">
+<br><br><img src="./image/zusammenbau-2.png" alt="" width="500">
+<br><br><img src="./image/zusammenbau-3.png" alt="" width="500">
+<br><br><img src="./image/zusammenbau-4.png" alt="" width="500">
 Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden, kann die korrekte Funktion der Maus am PC getestet werden. Nun haben wir eine 3 Tasten USB Maus welche einmalig auf der Welt ist, da sie selbst zusammengebaut wurde.
