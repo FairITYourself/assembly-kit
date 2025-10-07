@@ -12,6 +12,8 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 
 ## Übersicht der Einzelteile
 
+<img src="./image/overview.png" alt="" width="500">
+
 - Bodenplatte
 - Oberschale
 - Rechte Taste
@@ -39,7 +41,9 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Lötstation
 - Torx T9 Bit
 - Torx T10 Bit
-- Bleifreies Lötzinn
+
+<img src="./image/bleifreies-lötzinn.png" alt="" width="500">
+Bleifreies Lötzinn
 
 ## Platine
 
