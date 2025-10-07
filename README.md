@@ -43,7 +43,7 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Die Bauteile werden immer von flach (z.B. Drahtbrücken, Widerstände, ....) nach hoch (z.B. Schalter, Kondensatoren, ....) sortiert.
 - Als vorletztes werden Anschluss Leitungen verlötet, da diese ansonsten während dem Bestücken und Löten stören können .
 - Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
-- ! Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
+> :warning: Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
 
 ## Das USB Kabel
 
