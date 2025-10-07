@@ -21,6 +21,7 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Hölzernes Mausrad
 - Optik (Linse)
 - USB Kabel
+<img src="./image/torx.png" alt="" width="250">
 - Torx (Vielzahn) Schraube
     - 2 x T9
     - 2 x T10
@@ -41,10 +42,10 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Lötstation
 
 <img src="./image/torx-t9.png" alt="" width="250">
-Torx T9 Bit
+Torx T9 Bit<br><br>
 
 <img src="./image/torx-t10.png" alt="" width="250">
-Torx T10 Bit
+Torx T10 Bit<br><br>
 
 <img src="./image/bleifreies-lötzinn.png" alt="" width="250">
 Bleifreies Lötzinn
