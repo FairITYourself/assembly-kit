@@ -39,10 +39,14 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 
 - Elektronik (fein) Seitenschneider
 - Lötstation
-- Torx T9 Bit
-- Torx T10 Bit
 
-<img src="./image/bleifreies-lötzinn.png" alt="" width="500">
+<img src="./image/torx-t9.png" alt="" width="250">
+Torx T9 Bit
+
+<img src="./image/torx-t10.png" alt="" width="250">
+Torx T10 Bit
+
+<img src="./image/bleifreies-lötzinn.png" alt="" width="250">
 Bleifreies Lötzinn
 
 ## Platine
