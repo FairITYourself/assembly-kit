@@ -1,3 +1,52 @@
-# Assembly_Kit
+# USB Maus Bausatz
 
 Aktuell verschicken wir 3-Tastige-Bausätze.
+
+## Die Einzelteile - Übersicht
+
+- Bodenplatte
+- Oberschale
+- Rechte Taste
+- Linke Taste
+- Hölzernes Mausrad
+- Optik (Linse)
+- USB Kabel
+- Torx (Vielzahn) Schraube
+    - 2 x T9
+    - 2 x T10
+    - 2 x für Maustasten
+    - 2 x für Gehäuse  
+- 2 x Kondensatoren 0,1µF
+- Kondensator 10µF
+- LED Grün / Rot
+- 5 x Drahtbrücken, da Platine einseitig
+- 2 x Schalter für Linke und Rechte Taste
+- Schalter für Mitteltaste
+- Drehgeber für Mausrad
+- Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle
+
+## Benötigte Werkzeuge
+
+- Elektronik (fein) Seitenschneider
+- Lötstation
+- Torx T9 Bit
+- Torx T10 Bit
+- Bleifreies Lötzinn
+
+## Die Platine
+
+
+
+## Die Platine bestücken
+
+- Beim Bestücken der Platine gibt es ein Reihenfolge welche einzuhalten äußerst ratsam ist.
+- Die Bauteile werden immer von flach (z.B. Drahtbrücken, Widerstände, ....) nach hoch (z.B. Schalter, Kondensatoren, ....) sortiert.
+- Als vorletztes werden Anschluss Leitungen verlötet, da diese ansonsten während dem Bestücken und Löten stören können .
+- Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
+- ! Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
+
+## Das USB Kabel
+
+
+
+## Finaler Zusammenbau
