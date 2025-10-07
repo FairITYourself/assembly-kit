@@ -53,6 +53,7 @@ Kondensator 10µF<br><br>
 <img src="./image/lde-grün.png" alt="" height="150">
 LED Grün / Rot<br><br>
 
+<img src="./image/drahtbruecken.png" alt="" height="150">
 5 x Drahtbrücken, da Platine einseitig<br><br>
 
 2 x Schalter für Linke und Rechte Taste<br><br>
