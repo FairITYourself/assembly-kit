@@ -56,6 +56,7 @@ LED Grün / Rot<br><br>
 <img src="./image/drahtbruecken.png" alt="" height="150">
 5 x Drahtbrücken, da Platine einseitig<br><br>
 
+<img src="./image/schalter.png" alt="" width="250">
 2 x Schalter für Linke und Rechte Taste<br><br>
 
 <img src="./image/schalter-mitteltaste.png" alt="" width="250">
@@ -67,7 +68,7 @@ Drehgeber für Mausrad<br><br>
 <img src="./image/chip.png" alt="" width="250">
 Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle<br><br>
 
-<img src="./image/gleitplättchen.png" alt="" width="250">
+<img src="./image/gleitplättchen.png" alt="" width="250">
 Gleitplättchen
 
 <img src="./image/assembly-kit-site-6.png" alt="" width="500">
