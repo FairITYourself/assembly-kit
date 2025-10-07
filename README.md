@@ -41,7 +41,7 @@ Torx (Vielzahn) Schraube (2 x T9 und 2 x T10)<br><br>
 <img src="./image/schraube-maustaste.png" alt="" width="250">
 2 x für Maustasten<br><br>
 
-<img src="./image/schraube-gehäuse.png" alt="" width="250">
+<img src="./image/schraube-gehäuse.png" alt="" width="250">
 2 x für Gehäuse<br><br>
 
 <img src="./image/kondensator-01.png" alt="" width="250">
@@ -101,30 +101,42 @@ Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
 ### Schlechtes Beispiel
 <img src="./image/assembly-kit-site-9.png" alt="" width="500">
+
 ### Drahtbrücken bestücken
 <img src="./image/assembly-kit-site-10.png" alt="" width="500">
+
 ### Kondensatoren und LED bestücken
 <img src="./image/assembly-kit-site-11.png" alt="" width="500">
+
 ### Taster bestücken
 <img src="./image/assembly-kit-site-12.png" alt="" width="500">
+
 ### Elko bestücken
 <img src="./image/assembly-kit-site-13.png" alt="" width="500">
+
 ### Drehgeber bestücken
 <img src="./image/assembly-kit-site-14.png" alt="" width="500">
 
-
 ### USB Kabel
-1. Die Kabelisolation ca 25mm vom Ende her (Hülle)mit einem nicht zu scharfen Messer vorsichtig einkerben. <img src="./image/usb-1-1.png" alt="" height="150">
-2. Die Kabelisolation (Hülle) vorsichtig mit (dem Daumennagel) abziehen. <img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150">
-3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen) <img src="./image/usb-1-3.png" alt="" height="150">
-4. Drahtschirm verdrillen und den Folienschirm abwickeln <img src="./image/usb-1-4.png" alt="" height="150">
-5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden <img src="./image/usb-2-5.png" alt="" height="150">
-6. Das Ende des verdrillten Schirmgeflechtes verzinnen<img src="./image/usb-2-6.png" alt="" height="150">
-7. Die Isolation der Farbigen Adern an den Enden vorsichtig maximal 3mm entfernen <img src="./image/usb-2-7.png" alt="" height="150">
-8. Die Adern Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück <img src="./image/usb-2-8.png" alt="" height="150">
+1. Die Kabelisolation ca 25mm vom Ende her (Hülle)mit einem nicht zu scharfen Messer vorsichtig einkerben.
+<img src="./image/usb-1-1.png" alt="" height="150">
+2. Die Kabelisolation (Hülle) vorsichtig mit (dem Daumennagel) abziehen.
+<img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150">
+3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen)
+<img src="./image/usb-1-3.png" alt="" height="150">
+4. Drahtschirm verdrillen und den Folienschirm abwickeln
+<img src="./image/usb-1-4.png" alt="" height="150">
+5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden
+<img src="./image/usb-2-5.png" alt="" height="150">
+6. Das Ende des verdrillten Schirmgeflechtes verzinnen
+<img src="./image/usb-2-6.png" alt="" height="150">
+7. Die Isolation der Farbigen Adern an den Enden vorsichtig maximal 3mm entfernen
+<img src="./image/usb-2-7.png" alt="" height="150">
+8. Die Adern Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück
+<img src="./image/usb-2-8.png" alt="" height="150">
 9. Nun kann das USB Kabel in die Platine eingelötet werden
 
-<br><img src="./image/assembly-kit-site-17.png" alt="" width="500">
+<img src="./image/assembly-kit-site-17.png" alt="" width="500">
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
 
 ### Sensor bestücken
