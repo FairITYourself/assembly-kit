@@ -7,7 +7,7 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 **Inhaltsverzeichnis**
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
 - [Benötigte Werkzeuge](#benötigte-werkzeuge)
-- [USB Kabel](#usb-kabel)
+- [Platine bestücken](#platine-bestücken)
 - [Finaler Zusammenbau](#finaler-zusammenbau)
 
 ## Übersicht der Einzelteile
@@ -69,6 +69,9 @@ Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle<br><br>
 <img src="./image/gleitplättchen.png" alt="" width="250">
 Gleitplättchen
 
+<img src="./image/assembly-kit-site-6.png" alt="" width="500">
+Platine (Vorder- und Rückseite mit Erklärung)
+
 ## Benötigte Werkzeuge
 
 <img src="./image/Seitenschneider.png" alt="" width="250">
@@ -86,9 +89,6 @@ Torx T10 Bit<br><br>
 <img src="./image/bleifreies-lötzinn.png" alt="" width="250">
 Bleifreies Lötzinn
 
-## Platine
-
-
 
 ## Platine bestücken
 
@@ -98,17 +98,27 @@ Als vorletztes werden Anschluss Leitungen verlötet, da diese ansonsten während
 Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 > :warning: Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
 
-## USB Kabel
+### Schlechtes Beispiel
+<img src="./image/assembly-kit-site-9.png" alt="" width="500">
+### Drahtbrücken bestücken
+<img src="./image/assembly-kit-site-10.png" alt="" width="500">
+### Kondensatoren und LED bestücken
+<img src="./image/assembly-kit-site-11.png" alt="" width="500">
+### Taster bestücken
+<img src="./image/assembly-kit-site-12.png" alt="" width="500">
+### Elko bestücken
+<img src="./image/assembly-kit-site-13.png" alt="" width="500">
+### Drehgeber bestücken
+<img src="./image/assembly-kit-site-14.png" alt="" width="500">
 
-<img src="./image/assembly-kit-site-6.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-9.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-10.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-11.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-12.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-13.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-14.png" alt="" width="500">
+
+### USB Kabel
+
+
 <br><img src="./image/assembly-kit-site-17.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-18.png" alt="" width="500">
-<br><img src="./image/assembly-kit-site-19.png" alt="" width="500">
+Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
+
+### Sensor bestücken
+<img src="./image/assembly-kit-site-19.png" alt="" width="500">
 
 ## Finaler Zusammenbau
