@@ -40,7 +40,7 @@ USB Kabel
 - 2 x Kondensatoren 0,1µF
 - <img src="./image/kondensator-10.png" alt="" width="250">
 Kondensator 10µF
-- <img src="./image/led grün.png" alt="" width="250">
+- <img src="./image/led%20grün.png" alt="" width="250">
 LED Grün / Rot
 - 5 x Drahtbrücken, da Platine einseitig
 - 2 x Schalter für Linke und Rechte Taste
