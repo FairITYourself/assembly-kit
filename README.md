@@ -38,11 +38,11 @@ USB Kabel<br><br>
 <img src="./image/torx.png" alt="" width="250">
 Torx (Vielzahn) Schraube (2 x T9 und 2 x T10)<br><br>
 
-    <img src="./image/schraube-maustaste.png" alt="" width="250">
-    2 x für Maustasten<br><br>
+<img src="./image/schraube-maustaste.png" alt="" width="250">
+2 x für Maustasten<br><br>
 
-    <img src="./image/schraube-gehäuse.png" alt="" width="250">
-    2 x für Gehäuse<br><br>
+<img src="./image/schraube-gehäuse.png" alt="" width="250">
+2 x für Gehäuse<br><br>
 
 <img src="./image/kondensator-01.png" alt="" width="250">
 2 x Kondensatoren 0,1µF<br><br>
