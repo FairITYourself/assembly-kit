@@ -47,6 +47,8 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 
 ## Das USB Kabel
 
-
+<img src="./image/assembly-kit-site-6.png" alt="" width="500">
+<img src="./image/assembly-kit-site-9.png" alt="" width="500">
+<img src="./image/assembly-kit-site-10.png" alt="" width="500">
 
 ## Finaler Zusammenbau
