@@ -135,18 +135,21 @@ Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 <img src="./image/usb-2-8.png" alt="" height="150"><br>
 9. Nun kann das USB Kabel in die Platine eingelötet werden
 
-<img src="./image/assembly-kit-site-17.png" alt="" width="500">
+<img src="./image/assembly-kit-site-17.png" alt="" width="500"><br>
+
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
 
 ### Sensor bestücken
-<img src="./image/assembly-kit-site-19.png" alt="" width="500">
+<img src="./image/assembly-kit-site-19.png" alt="" width="500"><br>
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern, sollte man sich vor dem Berühren des Sensors selbst entladen haben, z.B. an der Erdung der Steckdose oder dem Metall eines Heizkörpers.
 
-## 
+## Unterschale bearbeiten für dritte Taste
+In der rechten Aufhängung des Scrollrad muss unten etwas weggebrochen werden, damit das Drücken der dritten Taste funktioniert.
+<br><img src="./image/scrollrad-aufhaengung.png" alt="" width="500">
 
 ## Finaler Zusammenbau
 <img src="./image/zusammenbau-1.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-2.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-3.png" alt="" width="500">
-<br><br><img src="./image/zusammenbau-4.png" alt="" width="500">
+<br><br><img src="./image/zusammenbau-4.png" alt="" width="500"><br><br>
 Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden, kann die korrekte Funktion der Maus am PC getestet werden. Nun haben wir eine 3 Tasten USB Maus welche einmalig auf der Welt ist, da sie selbst zusammengebaut wurde.
