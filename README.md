@@ -50,7 +50,7 @@ Torx (Vielzahn) Schraube (2 x T9 und 2 x T10)<br><br>
 <img src="./image/kondensator-10.png" alt="" width="250">
 Kondensator 10µF<br><br>
 
-<img src="./image/led-grün.png" alt="" width="250">
+<img src="./image/lde-grün.png" alt="" width="250">
 LED Grün / Rot<br><br>
 
 5 x Drahtbrücken, da Platine einseitig<br><br>
