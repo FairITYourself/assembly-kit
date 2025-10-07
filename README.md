@@ -2,7 +2,15 @@
 
 Aktuell verschicken wir 3-Tastige-Bausätze.
 
-## Die Einzelteile - Übersicht
+> :warning: Bitte aktuell noch die PDF verwenden!
+
+**Inhaltsverzeichnis**
+- [Übersicht der Einzelteile](#übersicht-der-einzelteile)
+- [Benötigte Werkzeuge](#benötigte-werkzeuge)
+- [USB Kabel](#usb-kabel)
+- [Finaler Zusammenbau](#finaler-zusammenbau)
+
+## Übersicht der Einzelteile
 
 - Bodenplatte
 - Oberschale
@@ -33,11 +41,11 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Torx T10 Bit
 - Bleifreies Lötzinn
 
-## Die Platine
+## Platine
 
 
 
-## Die Platine bestücken
+## Platine bestücken
 
 - Beim Bestücken der Platine gibt es ein Reihenfolge welche einzuhalten äußerst ratsam ist.
 - Die Bauteile werden immer von flach (z.B. Drahtbrücken, Widerstände, ....) nach hoch (z.B. Schalter, Kondensatoren, ....) sortiert.
@@ -45,7 +53,7 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 > :warning: Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
 
-## Das USB Kabel
+## USB Kabel
 
 <img src="./image/assembly-kit-site-6.png" alt="" width="500">
 <img src="./image/assembly-kit-site-9.png" alt="" width="500">
