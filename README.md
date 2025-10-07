@@ -5,14 +5,14 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 > :warning: Bitte aktuell noch die PDF verwenden!
 
 **Inhaltsverzeichnis**
-[Übersicht der Einzelteile](#übersicht-der-einzelteile)
-[Benötigte Werkzeuge](#benötigte-werkzeuge)
-[USB Kabel](#usb-kabel)
-[Finaler Zusammenbau](#finaler-zusammenbau)
+- [Übersicht der Einzelteile](#übersicht-der-einzelteile)
+- [Benötigte Werkzeuge](#benötigte-werkzeuge)
+- [USB Kabel](#usb-kabel)
+- [Finaler Zusammenbau](#finaler-zusammenbau)
 
 ## Übersicht der Einzelteile
 
-<img src="./image/overview.png" alt="" width="500">
+<img src="./image/overview.png" alt="" width="500"><br><br>
 
 <img src="./image/bodenplatte.png" alt="" width="250">
 Bodenplatte<br><br>
@@ -36,14 +36,13 @@ Optik (Linse)<br><br>
 USB Kabel<br><br>
 
 <img src="./image/torx.png" alt="" width="250">
-Torx (Vielzahn) Schraube
-    2 x T9
-    2 x T10
+Torx (Vielzahn) Schraube (2 x T9 und 2 x T10)<br><br>
+
     <img src="./image/schraube-maustaste.png" alt="" width="250">
-2 x für Maustasten<br><br>
+    2 x für Maustasten<br><br>
 
     <img src="./image/schraube-gehäuse.png" alt="" width="250">
-2 x für Gehäuse<br><br>
+    2 x für Gehäuse<br><br>
 
 <img src="./image/kondensator-01.png" alt="" width="250">
 2 x Kondensatoren 0,1µF<br><br>
@@ -51,7 +50,7 @@ Torx (Vielzahn) Schraube
 <img src="./image/kondensator-10.png" alt="" width="250">
 Kondensator 10µF<br><br>
 
-<img src="./image/led%20grün.png" alt="" width="250">
+<img src="./image/led-grün.png" alt="" width="250">
 LED Grün / Rot<br><br>
 
 5 x Drahtbrücken, da Platine einseitig<br><br>
