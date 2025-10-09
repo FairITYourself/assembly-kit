@@ -145,7 +145,7 @@ Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bl
 
 ## Unterschale bearbeiten für dritte Taste
 In der rechten Aufhängung des Scrollrad muss unten etwas weggebrochen werden, damit das Drücken der dritten Taste funktioniert.
-<br><img src="./image/scrollrad-aufhaengung.png" alt="" width="500">
+<br><img src="./image/ausbrechen-dritte-taste.jpeg" alt="" width="500">
 
 ## Finaler Zusammenbau
 <img src="./image/zusammenbau-1.png" alt="" width="500">
