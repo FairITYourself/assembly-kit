@@ -144,7 +144,7 @@ Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bl
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern, sollte man sich vor dem Berühren des Sensors selbst entladen haben, z.B. an der Erdung der Steckdose oder dem Metall eines Heizkörpers.
 
 ## Unterschale bearbeiten für dritte Taste
-In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil weggebrochen werden, damit das Drücken der dritten Taste funktioniert.
+In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil entfernt werden, damit das Drücken der dritten Taste funktioniert.
 <br><img src="./image/ausbrechen-dritte-taste.png" alt="" height="400">
 
 ## Finaler Zusammenbau
