@@ -56,6 +56,7 @@ jobs:
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
           mvd build
+          mvd make_pdf --mvd-individual --pdf-engine=xelatex
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
