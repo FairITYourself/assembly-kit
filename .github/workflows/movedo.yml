@@ -54,6 +54,7 @@ jobs:
         run: |
           mvd install_pdsite
           export PATH="$PATH:$HOME/.pdsite/bin"
+          export MVD_SINGLE_FILE=false
           mvd build
 
       - name: Upload artifact
