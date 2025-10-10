@@ -53,6 +53,11 @@ jobs:
           printf "[safe]\n\tdirectory = /github/workspace" \
             > /home/runner/work/_temp/_github_home/.gitconfig
 
+      - name: "tree - before build"
+        run: |
+          pwd
+          tree
+
       - name: "Build with MoVeDo"
         run: |
           mvd install_pdsite
@@ -60,6 +65,11 @@ jobs:
           export MVD_SINGLE_FILE=false
           mvd build
           mvd make_pdf --mvd-individual --pdf-engine=xelatex
+
+      - name: "tree - after build"
+        run: |
+          pwd
+          tree
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
