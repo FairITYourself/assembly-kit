@@ -6,6 +6,8 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
 - [Benötigte Werkzeuge](#benötigte-werkzeuge)
 - [Platine bestücken](#platine-bestücken)
+- [Unterschale bearbeiten für dritte Taste](#unterschale-bearbeiten-für-dritte-taste)
+- [Sensor-Folie abziehen](#sensor-folie-abziehen)
 - [Finaler Zusammenbau](#finaler-zusammenbau)
 
 ## Übersicht der Einzelteile
@@ -146,6 +148,10 @@ Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bl
 ## Unterschale bearbeiten für dritte Taste
 In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil entfernt werden, damit das Drücken der dritten Taste funktioniert.
 <br><img src="./image/ausbrechen-dritte-taste.png" alt="" height="400">
+
+## Sensor-Folie abziehen
+Ziehe nun vorsichtig die Folie vom Sensor (Chip).
+<br><img src="./image/Sensor-Folie.webp" alt="" height="400">
 
 ## Finaler Zusammenbau
 <img src="./image/zusammenbau-1.png" alt="" width="500">
