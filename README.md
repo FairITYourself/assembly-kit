@@ -1,6 +1,6 @@
 # USB Maus Bausatz
 
-Aktuell verschicken wir 3-Tastige-Bausätze.
+Aktuell (Stand 12/2025) verschicken wir 3-tastige Bausätze.
 
 **Inhaltsverzeichnis**
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
@@ -17,8 +17,8 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 <img src="./image/bodenplatte.png" alt="" width="250">
 Bodenplatte<br><br>
 
-<img src="./image/oberaschale.png" alt="" width="250">
-Oberaschale<br><br>
+<img src="./image/oberschale.png" alt="" width="250">
+Oberschale<br><br>
 
 <img src="./image/rechte-maustaste.png" alt="" width="250">
 Rechte Taste<br><br>
@@ -94,10 +94,10 @@ Bleifreies Lötzinn
 
 ## Platine bestücken
 
-Beim Bestücken der Platine gibt es ein Reihenfolge welche einzuhalten äußerst ratsam ist.
-Die Bauteile werden immer von flach (z.B. Drahtbrücken, Widerstände, ....) nach hoch (z.B. Schalter, Kondensatoren, ....) sortiert.
-Als vorletztes werden Anschluss Leitungen verlötet, da diese ansonsten während dem Bestücken und Löten stören können .
-Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
+Beim Bestücken der Platine gibt es ein Reihenfolge, welche einzuhalten äußerst ratsam ist.
+Die Bauteile werden immer von flach (z.B. Drahtbrücken, Widerstände, …) nach hoch (z.B. Schalter, Kondensatoren, …) sortiert.
+Als vorletztes werden Anschluss-Leitungen verlötet, da diese ansonsten während dem Bestücken und Löten stören können.
+Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 > :warning: Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
 
 ### Schlechtes Beispiel
@@ -119,27 +119,26 @@ Der Optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 <img src="./image/assembly-kit-site-14.png" alt="" width="500">
 
 ### USB Kabel
-1. Die Kabelisolation ca 25mm vom Ende her (Hülle)mit einem nicht zu scharfen Messer vorsichtig einkerben.<br>
+1. Die Kabelisolation ca. 25mm vom Ende her (Hülle) mit einem nicht zu scharfen Messer vorsichtig einkerben.<br>
 <img src="./image/usb-1-1.png" alt="" height="150"><br>
-2. Die Kabelisolation (Hülle) vorsichtig mit (dem Daumennagel) abziehen.<br>
+2. Die Kabelisolation (Hülle) vorsichtig (mit dem Daumennagel) abziehen.<br>
 <img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150"><br>
-3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen)<br>
+3. Die Drahtschirmung vorsichtig abwickeln (man kann sich an den feinen Drähten stechen).<br>
 <img src="./image/usb-1-3.png" alt="" height="150"><br>
-4. Drahtschirm verdrillen und den Folienschirm abwickeln<br>
+4. Drahtschirm verdrillen und den Folienschirm abwickeln.<br>
 <img src="./image/usb-1-4.png" alt="" height="150"><br>
-5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden<br>
+5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden.<br>
 <img src="./image/usb-2-5.png" alt="" height="150"><br>
-6. Das Ende des verdrillten Schirmgeflechtes verzinnen<br>
+6. Das Ende des verdrillten Schirmgeflechtes verzinnen.<br>
 <img src="./image/usb-2-6.png" alt="" height="150"><br>
-7. Die Isolation der Farbigen Adern an den Enden vorsichtig maximal 3mm entfernen<br>
+7. Die Isolation der farbigen Adern an den Enden vorsichtig maximal 3mm entfernen.<br>
 <img src="./image/usb-2-7.png" alt="" height="150"><br>
-8. Die Adern Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück<br>
+8. Die Adern-Enden verzinnen. Die Isolation zieht sich durch die Hitze noch weiter zurück.<br>
 <img src="./image/usb-2-8.png" alt="" height="150"><br>
-9. Nun kann das USB Kabel in die Platine eingelötet werden
-
+9. Nun kann das USB Kabel in die Platine eingelötet werden.<br>
 <img src="./image/assembly-kit-site-17.png" alt="" width="500"><br>
 
-Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit Bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
+Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
 
 ### Sensor bestücken
 <img src="./image/assembly-kit-site-19.png" alt="" width="500"><br>
@@ -158,4 +157,4 @@ Ziehe nun vorsichtig die Folie vom Sensor (Chip).
 <br><br><img src="./image/zusammenbau-2.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-3.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-4.png" alt="" width="500"><br><br>
-Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden, kann die korrekte Funktion der Maus am PC getestet werden. Nun haben wir eine 3 Tasten USB Maus welche einmalig auf der Welt ist, da sie selbst zusammengebaut wurde.
+Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden, kann die korrekte Funktion der Maus am PC getestet werden. Nun haben wir eine 3-Tasten USB-Maus, welche einmalig auf der Welt ist, da sie selbst zusammengebaut wurde.
