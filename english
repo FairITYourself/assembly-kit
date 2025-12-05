@@ -1,0 +1,160 @@
+# NOT PROOFREAD YET: USB Mouse Assembly Kit
+
+Currently (as of December 2025) we ship 3-button kits.
+
+**Table of Contents**
+- [Overview of Components](#overview-of-components)
+- [Required Tools](#required-tools)
+- [Populating the PCB](#populating-the-pcb)
+- [Modifying the Bottom Shell for the Third Button](#modifying-the-bottom-shell-for-the-third-button)
+- [Removing the Sensor Film](#removing-the-sensor-film)
+- [Final Assembly](#final-assembly)
+
+## Overview of Components
+
+<img src="./image/overview.png" alt="" width="500"><br><br>
+
+<img src="./image/bodenplatte.png" alt="" width="250">
+Bottom Plate<br><br>
+
+<img src="./image/oberschale.png" alt="" width="250">
+Top Shell<br><br>
+
+<img src="./image/rechte-maustaste.png" alt="" width="250">
+Right Button<br><br>
+
+<img src="./image/linke-maustaste.png" alt="" width="250">
+Left Button<br><br>
+
+<img src="./image/mausrad.png" alt="" width="250">
+Wooden Scroll Wheel<br><br>
+
+<img src="./image/linse.png" alt="" width="250">
+Optics (Lens)<br><br>
+
+<img src="./image/usb-kabel.png" alt="" width="250">
+USB Cable<br><br>
+
+<img src="./image/torx.png" alt="" width="250">
+Torx Screws (2× T9 and 2× T10)<br><br>
+
+<img src="./image/schraube-maustaste.png" alt="" width="250">
+2× Screws for Mouse Buttons<br><br>
+
+<img src="./image/schraube-gehäuse.png" alt="" width="250">
+2× Screws for Housing<br><br>
+
+<img src="./image/kondensator-01.png" alt="" width="250">
+2× 0.1 µF Capacitors<br><br>
+
+<img src="./image/kondensator-10.png" alt="" width="250">
+10 µF Capacitor<br><br>
+
+<img src="./image/lde-grün.png" alt="" height="150">
+Green / Red LED<br><br>
+
+<img src="./image/drahtbruecken.png" alt="" height="150">
+5× Wire Bridges (single-sided PCB)<br><br>
+
+<img src="./image/schalter.png" alt="" width="250">
+2× Switches for Left and Right Button<br><br>
+
+<img src="./image/schalter-mitteltaste.png" alt="" width="250">
+Switch for Middle Button<br><br>
+
+<img src="./image/drehgeber.png" alt="" width="250">
+Encoder for Scroll Wheel<br><br>
+
+<img src="./image/chip.png" alt="" width="250">
+Heart of the Mouse: Optical Sensor, Processor, and USB Interface<br><br>
+
+<img src="./image/gleitplättchen.png" alt="" width="250">
+Glide Pads<br><br>
+
+<img src="./image/assembly-kit-site-6.png" alt="" width="500">
+PCB (front and back with explanation)
+
+## Required Tools
+
+<img src="./image/Seitenschneider.png" alt="" width="250">
+Fine Electronics Side Cutters<br><br>
+
+<img src="./image/loetstation.png" alt="" width="250">
+Soldering Station<br><br>
+
+<img src="./image/torx-t9.png" alt="" width="250">
+Torx T9 Bit<br><br>
+
+<img src="./image/torx-t10.png" alt="" width="250">
+Torx T10 Bit<br><br>
+
+<img src="./image/bleifreies-lötzinn.png" alt="" width="250">
+Lead-free Solder
+
+## Populating the PCB
+
+When populating the PCB, there is a sequence that is highly recommended to follow. Components should be installed from flat (e.g., wire bridges, resistors, …) to tall (e.g., switches, capacitors, …). Next-to-last, solder on any connector leads—otherwise they may get in the way during assembly. The optical mouse sensor/processor is installed last.  
+> :warning: Always solder one leg of a component first, then check its seating (e.g., ensure parts and wires lie cleanly on the PCB).
+
+### Bad Example
+<img src="./image/assembly-kit-site-9.png" alt="" width="500">
+
+### Installing Wire Bridges
+<img src="./image/assembly-kit-site-10.png" alt="" width="500">
+
+### Installing Capacitors and LED
+<img src="./image/assembly-kit-site-11.png" alt="" width="500">
+
+### Installing Switches
+<img src="./image/assembly-kit-site-12.png" alt="" width="500">
+
+### Installing Electrolytic Capacitor (Elko)
+<img src="./image/assembly-kit-site-13.png" alt="" width="500">
+
+### Installing Rotary Encoder
+<img src="./image/assembly-kit-site-14.png" alt="" width="500">
+
+### USB Cable
+1. Carefully score the cable jacket about 25 mm from the end with a not-too-sharp knife.<br>
+   <img src="./image/usb-1-1.png" alt="" height="150"><br>
+   2. Peel back the jacket carefully (e.g., with your thumbnail).<br>
+      <img src="./image/usb-1-21.png" alt="" height="150"><img src="./image/usb-1-22.png" alt="" height="150"><br>
+      3. Carefully unwind the braided shield (mind the sharp wires).<br>
+         <img src="./image/usb-1-3.png" alt="" height="150"><br>
+         4. Twist the braided shield and unwrap the foil shield.<br>
+            <img src="./image/usb-1-4.png" alt="" height="150"><br>
+            5. Cut away the filler threads with a knife or side cutters.<br>
+               <img src="./image/usb-2-5.png" alt="" height="150"><br>
+               6. Tin the end of the twisted shielding braid.<br>
+                  <img src="./image/usb-2-6.png" alt="" height="150"><br>
+                  7. Strip up to 3 mm of insulation from the colored wires at each end.<br>
+                     <img src="./image/usb-2-7.png" alt="" height="150"><br>
+                     8. Tin the wire ends (the heat will pull insulation back slightly).<br>
+                        <img src="./image/usb-2-8.png" alt="" height="150"><br>
+                        9. Solder the USB cable to the PCB.<br>
+                           <img src="./image/assembly-kit-site-17.png" alt="" width="500"><br>
+
+                           A good solder joint has a shiny surface when using leaded solder. Lead-free solder always looks matte.  
+                           <img src="./image/assembly-kit-site-18.png" alt="" width="500">
+
+                           ### Installing Sensor
+                           <img src="./image/assembly-kit-site-19.png" alt="" width="500"><br>
+                           > :warning: To prevent damage to the sensor from electrostatic discharge, discharge yourself first—e.g., touch the grounded metal of an outlet or a radiator—before handling the sensor.
+
+                           ## Modifying the Bottom Shell for the Third Button
+
+                           In the right scroll-wheel mount, remove the raised center section at the bottom so the third button can be pressed.  
+                           <br><img src="./image/ausbrechen-dritte-taste.png" alt="" height="400">
+
+                           ## Removing the Sensor Film
+
+                           Now carefully peel the protective film off the sensor chip.  
+                           <br><img src="./image/Sensor-Folie.webp" alt="" height="400">
+
+                           ## Final Assembly
+
+                           <img src="./image/zusammenbau-1.png" alt="" width="500"><br><br>
+                           <img src="./image/zusammenbau-2.png" alt="" width="500"><br><br>
+                           <img src="./image/zusammenbau-3.png" alt="" width="500"><br><br>
+                           <img src="./image/zusammenbau-4.png" alt="" width="500"><br><br>
+                           If everything was done correctly and no shorts were created, you can test the mouse on your PC. You now have a one-of-a-kind, self-assembled 3-button USB mouse!
