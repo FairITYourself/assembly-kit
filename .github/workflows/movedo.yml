@@ -65,6 +65,7 @@ jobs:
           export MVD_SINGLE_FILE=false
           mvd build
           mvd make_pdf --mvd-individual --pdf-engine=xelatex
+          mvd create_index build/
 
       - name: "tree - after build"
         run: |
