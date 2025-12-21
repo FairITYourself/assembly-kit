@@ -68,6 +68,10 @@ jobs:
 
       - name: "Build with MoVeDo"
         run: |
+          # HACK Latest version of pandoc should already be installed,
+          #      but ... sometimes isn't.
+          mvd install_pandoc
+          mvd print_pandoc_version
           mvd install_pdsite
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
