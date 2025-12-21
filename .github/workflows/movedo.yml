@@ -58,6 +58,14 @@ jobs:
           pwd
           tree
 
+      - name: "DEBUGing - Check Xe*Tex availability"
+        run: |
+          which xetex || true
+          which xelatex || true
+          ls /usr/bin/xetex || true
+          ls /usr/bin/xelatex || true
+          echo "PATH=$PATH"
+
       - name: "Build with MoVeDo"
         run: |
           mvd install_pdsite
