@@ -3,6 +3,7 @@
 Aktuell (Stand 12/2025) verschicken wir 3-tastige Bausätze.
 
 **Inhaltsverzeichnis**
+
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
 - [Benötigte Werkzeuge](#benötigte-werkzeuge)
 - [Platine bestücken](#platine-bestücken)
@@ -101,24 +102,31 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 > :warning: Immer erst ein Bein eines Bauteiles verlöten und dann den korrekten Sitz kontrollieren (z.B. liegen die Bauteile, Drähte sauber auf der Platine auf).  
 
 ### Schlechtes Beispiel
+
 <img src="./image/assembly-kit-site-9.png" alt="" width="500">
 
 ### Drahtbrücken bestücken
+
 <img src="./image/assembly-kit-site-10.png" alt="" width="500">
 
 ### Kondensatoren und LED bestücken
+
 <img src="./image/assembly-kit-site-11.png" alt="" width="500">
 
 ### Taster bestücken
+
 <img src="./image/assembly-kit-site-12.png" alt="" width="500">
 
 ### Elko bestücken
+
 <img src="./image/assembly-kit-site-13.png" alt="" width="500">
 
 ### Drehgeber bestücken
+
 <img src="./image/assembly-kit-site-14.png" alt="" width="500">
 
 ### USB Kabel
+
 1. Die Kabelisolation ca. 25mm vom Ende her (Hülle) mit einem nicht zu scharfen Messer vorsichtig einkerben.<br>
 <img src="./image/usb-1-1.png" alt="" height="150"><br>
 2. Die Kabelisolation (Hülle) vorsichtig (mit dem Daumennagel) abziehen.<br>
@@ -141,20 +149,25 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus (mit bleihaltigem Lötzinn). Bleifreies Lötzinn ergibt immer eine matte Oberfläche. <img src="./image/assembly-kit-site-18.png" alt="" width="500">
 
 ### Sensor bestücken
+
 <img src="./image/assembly-kit-site-19.png" alt="" width="500"><br>
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern, sollte man sich vor dem Berühren des Sensors selbst entladen haben, z.B. an der Erdung der Steckdose oder dem Metall eines Heizkörpers.
 
 ## Unterschale bearbeiten für dritte Taste
+
 In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil entfernt werden, damit das Drücken der dritten Taste funktioniert.
 <br><img src="./image/ausbrechen-dritte-taste.png" alt="" height="400">
 
 ## Sensor-Folie abziehen
+
 Ziehe nun vorsichtig die Folie vom Sensor (Chip).
 <br><img src="./image/Sensor-Folie.webp" alt="" height="400">
 
 ## Finaler Zusammenbau
+
 <img src="./image/zusammenbau-1.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-2.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-3.png" alt="" width="500">
 <br><br><img src="./image/zusammenbau-4.png" alt="" width="500"><br><br>
+
 Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden, kann die korrekte Funktion der Maus am PC getestet werden. Nun haben wir eine 3-Tasten USB-Maus, welche einmalig auf der Welt ist, da sie selbst zusammengebaut wurde.
