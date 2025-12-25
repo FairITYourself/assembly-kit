@@ -74,6 +74,8 @@ jobs:
           mvd install_pandoc
           mvd print_pandoc_version
           mvd install_pdsite
+          tlmgr install latex latex-bin
+          tlmgr-sys --all
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
           mvd build
@@ -81,8 +83,8 @@ jobs:
           # on some versions of the docker "magic"-universe,
           # this symlink is "fantastically" ... not present.
           ln -s /usr/bin/xetex /usr/bin/xelatex || true
-          #mvd make_pdf --mvd-individual --pdf-engine=xelatex
-          mvd make_pdf --mvd-individual --pdf-engine=/usr/bin/xetex
+          mvd make_pdf --mvd-individual --pdf-engine=xelatex
+          #mvd make_pdf --mvd-individual --pdf-engine=/usr/bin/xetex
 
       - name: "tree - after build"
         run: |
