@@ -70,25 +70,25 @@ jobs:
         run: |
           # HACK Latest version of pandoc should already be installed,
           #      but ... sometimes isn't.
-          mvd print_pandoc_version
-          mvd install_pandoc
-          mvd print_pandoc_version
+          #mvd print_pandoc_version
+          #mvd install_pandoc
+          #mvd print_pandoc_version
           mvd install_pdsite
           #tlmgr install latex latex-bin
           #tlmgr-sys --all
           #fmtutil-sys --all
-          echo "XXX --reinstall texlive-xetex"
-          apt-get update
-          apt-get install --reinstall texlive-xetex
-          echo "XXX show installed fmt's"
-          find /var/lib/texmf/web2c
+          #echo "XXX --reinstall texlive-xetex"
+          #apt-get update
+          #apt-get install --reinstall texlive-xetex
+          #echo "XXX show installed fmt's"
+          #find /var/lib/texmf/web2c
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
           mvd build
           # NOTE This is a HACK/FIX because ...
           # on some versions of the docker "magic"-universe,
           # this symlink is "fantastically" ... not present.
-          ln -s /usr/bin/xetex /usr/bin/xelatex || true
+          #ln -s /usr/bin/xetex /usr/bin/xelatex || true
           mvd make_pdf --mvd-individual --pdf-engine=xelatex
           #mvd make_pdf --mvd-individual --pdf-engine=/usr/bin/xetex
 
