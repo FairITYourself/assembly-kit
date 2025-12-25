@@ -78,7 +78,7 @@ jobs:
           #tlmgr-sys --all
           #fmtutil-sys --all
           echo "XXX --reinstall texlive-xetex"
-          sudo apt-get install --reinstall texlive-xetex
+          apt-get install --reinstall texlive-xetex
           echo "XXX show installed fmt's"
           find /var/lib/texmf/web2c
           export PATH="$PATH:$HOME/.pdsite/bin"
