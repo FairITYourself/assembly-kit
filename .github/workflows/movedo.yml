@@ -74,8 +74,9 @@ jobs:
           mvd install_pandoc
           mvd print_pandoc_version
           mvd install_pdsite
-          tlmgr install latex latex-bin
-          tlmgr-sys --all
+          #tlmgr install latex latex-bin
+          #tlmgr-sys --all
+          fmtutil-sys --all
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
           mvd build
