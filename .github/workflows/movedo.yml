@@ -77,6 +77,7 @@ jobs:
           #tlmgr install latex latex-bin
           #tlmgr-sys --all
           fmtutil-sys --all
+          find /var/lib/texmf/web2c
           export PATH="$PATH:$HOME/.pdsite/bin"
           export MVD_SINGLE_FILE=false
           mvd build
