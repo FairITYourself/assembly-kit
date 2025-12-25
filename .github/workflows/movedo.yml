@@ -62,14 +62,15 @@ jobs:
         run: |
           which xetex || true
           which xelatex || true
-          ls /usr/bin/xetex || true
-          ls /usr/bin/xelatex || true
+          ls -la /usr/bin/xetex || true
+          ls -la /usr/bin/xelatex || true
           echo "PATH=$PATH"
 
       - name: "Build with MoVeDo"
         run: |
           # HACK Latest version of pandoc should already be installed,
           #      but ... sometimes isn't.
+          mvd print_pandoc_version
           mvd install_pandoc
           mvd print_pandoc_version
           mvd install_pdsite
@@ -80,7 +81,8 @@ jobs:
           # on some versions of the docker "magic"-universe,
           # this symlink is "fantastically" ... not present.
           ln -s /usr/bin/xetex /usr/bin/xelatex || true
-          mvd make_pdf --mvd-individual --pdf-engine=xelatex
+          #mvd make_pdf --mvd-individual --pdf-engine=xelatex
+          mvd make_pdf --mvd-individual --pdf-engine=/usr/bin/xetex
 
       - name: "tree - after build"
         run: |
