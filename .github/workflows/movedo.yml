@@ -62,6 +62,8 @@ jobs:
         run: |
           which xetex || true
           which xelatex || true
+          which python || true
+          python --version || true
           ls -la /usr/bin/xetex || true
           ls -la /usr/bin/xelatex || true
           echo "PATH=$PATH"
