@@ -66,32 +66,32 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
 ### Schlechtes Beispiel
 
-<img src="image/pcb-9-bad-example.jpg" alt="" width="500">
+<img src="image/pcb-9-bad-example.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-9-bad-example.jpg}
 
 ### Drahtbrücken bestücken
 
-<img src="image/pcb-10-jumpers.jpg" alt="" width="500">
+<img src="image/pcb-10-jumpers.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-10-jumpers.jpg}
 
 ### Kondensatoren und LED bestücken
 
-<img src="image/pcb-11-capacitors-and-leds.jpg" alt="" width="500">
+<img src="image/pcb-11-capacitors-and-leds.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-11-capacitors-and-leds.jpg}
 
 ### Taster bestücken
 
-<img src="image/pcb-12-switch-keys.jpg" alt="" width="500">
+<img src="image/pcb-12-switch-keys.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-12-switch-keys.jpg}
 
 ### Elko bestücken
 
-<img src="image/pcb-13-electrolytic-capacitor.jpg" alt="" height="500">
+<img src="image/pcb-13-electrolytic-capacitor.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-13-electrolytic-capacitor.jpg}
 
 ### Drehgeber bestücken
 
-<img src="image/pcb-14-rotary-encoder.jpg" alt="" height="500">
+<img src="image/pcb-14-rotary-encoder.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-14-rotary-encoder.jpg}
 
 ### USB Kabel
@@ -142,19 +142,19 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
 9. Nun kann das USB Kabel in die Platine eingelötet werden.
 
-   <img src="image/pcb-17-usb-cable.jpg" alt="" height="150">
+   <img src="image/pcb-17-usb-cable.jpg" alt="" width="80%">
    \includegraphics[width=0.9\textwidth]{image/pcb-17-usb-cable.jpg}
 
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus
 (mit bleihaltigem Lötzinn).
 Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 
-<img src="image/pcb-18-bad-example-2.jpg" alt="" height="500">
+<img src="image/pcb-18-bad-example-2.jpg" alt="" width="70%">
 \includegraphics[width=0.9\textwidth]{image/pcb-18-bad-example-2.jpg}
 
 ### Sensor bestücken
 
-<img src="image/pcb-19-processor-sensor.jpg" alt="" height="500">
+<img src="image/pcb-19-processor-sensor.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-19-processor-sensor.jpg}
 
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern,
