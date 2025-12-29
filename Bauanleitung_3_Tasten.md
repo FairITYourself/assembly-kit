@@ -161,8 +161,8 @@ In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil 
 ## Sensor-Folie abziehen
 
 Ziehe nun vorsichtig die Folie vom Sensor (Chip).
-<br><img src="./image/Sensor-Folie.webp" alt="" height="400">
 
+<img src="image/Sensor-Folie.png" alt="" height="400">
 ## Finaler Zusammenbau
 
 <img src="./image/zusammenbau-1.png" alt="" width="500">
