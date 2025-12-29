@@ -16,10 +16,10 @@ SPDX-License-Identifier: CC0-1.0
     https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
     http://commonmark.org)
 
-Die Anleitung ist hier:
+Die Anleitung verfügbar:
 
 - [zum editieren](Bauanleitung_3_Tasten.md)
-- [als PDF](Bauanleitung - 3 Tasten.pdf)
-- [als webseite](TODO.html)
+- [als PDF](https://fairityourself.github.io/assembly-kit/pdf/Bauanleitung_3_Tasten.pdf)
+- [als webseite (statisch generiert)](https://fairityourself.github.io/assembly-kit/html/Bauanleitung_3_Tasten.html)
 
 TODO
