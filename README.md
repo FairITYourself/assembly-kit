@@ -17,8 +17,8 @@ Aktuell verschicken wir 3-Tastige-Bausätze.
 <img src="./image/bodenplatte.png" alt="" width="250">
 Bodenplatte<br><br>
 
-<img src="./image/oberaschale.png" alt="" width="250">
-Oberaschale<br><br>
+<img src="./image/oberschale.png" alt="" width="250">
+Oberschale<br><br>
 
 <img src="./image/rechte-maustaste.png" alt="" width="250">
 Rechte Taste<br><br>
