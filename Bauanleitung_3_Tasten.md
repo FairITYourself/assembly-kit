@@ -13,31 +13,31 @@ Aktuell (Stand 12/2025) verschicken wir 3-tastige Bausätze.
 
 ## Übersicht der Einzelteile
 
-![Übersicht](image/overview.png)
+![Übersicht](image/overview.jpg)
 
 | | |
 | --- | ------ |
-| ![Bodenplatte](image/bodenplatte.png) | Bodenplatte |
-| ![Oberschale](image/oberschale.png) | Oberschale |
-| ![Rechte Taste](image/rechte-maustaste.png) | Rechte Taste |
-| ![Linke Taste](image/linke-maustaste.png) | Linke Taste |
-| ![Hölzernes Mausrad](image/mausrad.png) | Hölzernes Mausrad |
-| ![Optik (Linse)](image/linse.png) | Optik (Linse) |
-| ![USB Kabel](image/usb-kabel.png) | USB Kabel |
-| ![Torx (Vielzahn) Schraube](image/torx.png) | Torx (Vielzahn) Schraube (2 x T9 und 2 x T10) |
-| ![2 x für Maustasten](image/schraube-maustaste.png) | 2 x für Maustasten |
-| ![2 x Schraube für Gehäuse](image/schraube-gehäuse.png) | 2 x Schraube für Gehäuse |
-| ![2 x Kondensatoren 0,1µF](image/kondensator-01.png) | 2 x Kondensatoren 0,1µF |
-| ![Kondensator 10µF](image/kondensator-10.png) | Kondensator 10µF |
-| ![LED Grün / Rot](image/lde-grün.png) | LED Grün / Rot |
-| ![5 x Drahtbrücken](image/drahtbruecken.png) | 5 x Drahtbrücken, da Platine einseitig |
-| ![2 x Schalter für Linke und Rechte Taste](image/schalter.png) | 2 x Schalter für Linke und Rechte Taste |
-| ![Schalter für Mitteltaste](image/schalter-mitteltaste.png) | Schalter für Mitteltaste |
-| ![Drehgeber für Mausrad](image/drehgeber.png) | Drehgeber für Mausrad |
-| ![Optischer Sensor & Prozessor](image/chip.png) | Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle |
-| ![Gleitplättchen](image/gleitplättchen.png) | Gleitplättchen |
+| ![Bodenplatte](image/bodenplatte.jpg) | Bodenplatte |
+| ![Oberschale](image/oberschale.jpg) | Oberschale |
+| ![Rechte Taste](image/rechte-maustaste.jpg) | Rechte Taste |
+| ![Linke Taste](image/linke-maustaste.jpg) | Linke Taste |
+| ![Hölzernes Mausrad](image/mausrad.jpg) | Hölzernes Mausrad |
+| ![Optik (Linse)](image/linse.jpg) | Optik (Linse) |
+| ![USB Kabel](image/usb-kabel.jpg) | USB Kabel |
+| ![Torx (Vielzahn) Schraube](image/torx.jpg) | Torx (Vielzahn) Schraube (2 x T9 und 2 x T10) |
+| ![2 x für Maustasten](image/schraube-maustaste.jpg) | 2 x für Maustasten |
+| ![2 x Schraube für Gehäuse](image/schraube-gehäuse.jpg) | 2 x Schraube für Gehäuse |
+| ![2 x Kondensatoren 0,1µF](image/kondensator-01.jpg) | 2 x Kondensatoren 0,1µF |
+| ![Kondensator 10µF](image/kondensator-10.jpg) | Kondensator 10µF |
+| ![LED Grün / Rot](image/lde-grün.jpg) | LED Grün / Rot |
+| ![5 x Drahtbrücken](image/drahtbruecken.jpg) | 5 x Drahtbrücken, da Platine einseitig |
+| ![2 x Schalter für Linke und Rechte Taste](image/schalter.jpg) | 2 x Schalter für Linke und Rechte Taste |
+| ![Schalter für Mitteltaste](image/schalter-mitteltaste.jpg) | Schalter für Mitteltaste |
+| ![Drehgeber für Mausrad](image/drehgeber.jpg) | Drehgeber für Mausrad |
+| ![Optischer Sensor & Prozessor](image/chip.jpg) | Herzstück der Maus: Optischer Sensor, Prozessor und USB Schnittstelle |
+| ![Gleitplättchen](image/gleitplättchen.jpg) | Gleitplättchen |
 
-![Platine](image/assembly-kit-site-6-pcb-overview.png)
+![Platine](image/pcb-6-overview.jpg)
 
 Platine (Vorder- und Rückseite mit Erklärung)
 
@@ -45,11 +45,11 @@ Platine (Vorder- und Rückseite mit Erklärung)
 
 | | |
 | --- | ------ |
-| ![Elektronik (fein) Seitenschneider](image/Seitenschneider.png) | Elektronik (fein) Seitenschneider |
-| ![Lötstation](image/loetstation.png) | Lötstation |
-| ![Torx T9 Bit](image/torx-t9.png) | Torx T9 Bit |
-| ![Torx T10 Bit](image/torx-t10.png) | Torx T10 Bit |
-| ![Bleifreies Lötzinn](image/bleifreies-lötzinn.png) | Bleifreies Lötzinn |
+| ![Elektronik (fein) Seitenschneider](image/Seitenschneider.jpg) | Elektronik (fein) Seitenschneider |
+| ![Lötstation](image/loetstation.jpg) | Lötstation |
+| ![Torx T9 Bit](image/torx-t9.jpg) | Torx T9 Bit |
+| ![Torx T10 Bit](image/torx-t10.jpg) | Torx T10 Bit |
+| ![Bleifreies Lötzinn](image/bleifreies-lötzinn.jpg) | Bleifreies Lötzinn |
 
 ## Platine bestücken
 
@@ -66,96 +66,96 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
 ### Schlechtes Beispiel
 
-<img src="image/pcb-9-bad-example.png" alt="" width="500">
-\includegraphics[width=500pt]{image/pcb-9-bad-example.png}
+<img src="image/pcb-9-bad-example.jpg" alt="" width="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-9-bad-example.jpg}
 
 ### Drahtbrücken bestücken
 
-<img src="image/pcb-10-jumpers.png" alt="" width="500">
-\includegraphics[width=500pt]{image/pcb-10-jumpers.png}
+<img src="image/pcb-10-jumpers.jpg" alt="" width="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-10-jumpers.jpg}
 
 ### Kondensatoren und LED bestücken
 
-<img src="image/pcb-11-capacitors-and-leds.png" alt="" width="500">
-\includegraphics[width=500pt]{image/pcb-11-capacitors-and-leds.png}
+<img src="image/pcb-11-capacitors-and-leds.jpg" alt="" width="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-11-capacitors-and-leds.jpg}
 
 ### Taster bestücken
 
-<img src="image/pcb-12-switch-keys.png" alt="" width="500">
-\includegraphics[width=500pt]{image/pcb-12-switch-keys.png}
+<img src="image/pcb-12-switch-keys.jpg" alt="" width="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-12-switch-keys.jpg}
 
 ### Elko bestücken
 
-<img src="image/pcb-13-electrolytic-capacitor.png" alt="" height="500">
-\includegraphics[width=500pt]{image/pcb-13-electrolytic-capacitor.png}
+<img src="image/pcb-13-electrolytic-capacitor.jpg" alt="" height="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-13-electrolytic-capacitor.jpg}
 
 ### Drehgeber bestücken
 
-<img src="image/pcb-14-rotary-encoder.png" alt="" height="500">
-\includegraphics[width=500pt]{image/pcb-14-rotary-encoder.png}
+<img src="image/pcb-14-rotary-encoder.jpg" alt="" height="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-14-rotary-encoder.jpg}
 
 ### USB Kabel
 
 1. Die Kabelisolation ca. 25mm vom Ende her (Hülle)
    mit einem nicht zu scharfen Messer vorsichtig einkerben.
 
-   <img src="image/usb-1-1.png" alt="" height="150">
-   \includegraphics[width=0.2\textwidth]{image/usb-1-1.png}
+   <img src="image/usb-1-1.jpg" alt="" height="150">
+   \includegraphics[width=0.2\textwidth]{image/usb-1-1.jpg}
 
 2. Die Kabelisolation (Hülle) vorsichtig (mit dem Daumennagel) abziehen.
 
    | | |
    | --- | ------ |
-   | ![Isolation 1](image/usb-1-2-1.png) | ![Isolation 2](image/usb-1-2-2.png) |
+   | ![Isolation 1](image/usb-1-2-1.jpg) | ![Isolation 2](image/usb-1-2-2.jpg) |
 
 3. Die Drahtschirmung vorsichtig abwickeln
    (die feinen Drähte können stechen wie Nadeln).
 
-   <img src="image/usb-1-3.png" alt="" height="150">
-   \includegraphics[width=0.2\textwidth]{image/usb-1-3.png}
+   <img src="image/usb-1-3.jpg" alt="" height="150">
+   \includegraphics[width=0.4\textwidth]{image/usb-1-3.jpg}
 
 4. Drahtschirm verdrillen und den Folienschirm abwickeln.
 
-   <img src="image/usb-1-4.png" alt="" height="150">
-   \includegraphics[width=0.2\textwidth]{image/usb-1-4.png}
+   <img src="image/usb-1-4.jpg" alt="" height="150">
+   \includegraphics[width=0.4\textwidth]{image/usb-1-4.jpg}
 
 5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden.
 
-   <img src="image/usb-2-5.png" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-5.png}
+   <img src="image/usb-2-5.jpg" alt="" height="150">
+   \includegraphics[width=150pt]{image/usb-2-5.jpg}
 
 6. Das Ende des verdrillten Schirmgeflechtes verzinnen.
 
-   <img src="image/usb-2-6.png" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-6.png}
+   <img src="image/usb-2-6.jpg" alt="" height="150">
+   \includegraphics[width=150pt]{image/usb-2-6.jpg}
 
 7. Die Isolation der farbigen Adern an den Enden vorsichtig maximal 3mm entfernen.
 
-   <img src="image/usb-2-7.png" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-7.png}
+   <img src="image/usb-2-7.jpg" alt="" height="150">
+   \includegraphics[width=150pt]{image/usb-2-7.jpg}
 
 8. Die Adern-Enden verzinnen.
    Die Isolation zieht sich durch die Hitze noch weiter zurück.
 
-   <img src="image/usb-2-8.png" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-8.png}
+   <img src="image/usb-2-8.jpg" alt="" height="150">
+   \includegraphics[width=150pt]{image/usb-2-8.jpg}
 
 9. Nun kann das USB Kabel in die Platine eingelötet werden.
 
-   <img src="image/pcb-17-usb-cable.png" alt="" height="150">
-   \includegraphics[width=150pt]{image/pcb-17-usb-cable.png}
+   <img src="image/pcb-17-usb-cable.jpg" alt="" height="150">
+   \includegraphics[width=0.9\textwidth]{image/pcb-17-usb-cable.jpg}
 
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus
 (mit bleihaltigem Lötzinn).
 Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 
-<img src="image/pcb-18-bad-example-2.png" alt="" height="500">
-\includegraphics[width=500pt]{image/pcb-18-bad-example-2.png}
+<img src="image/pcb-18-bad-example-2.jpg" alt="" height="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-18-bad-example-2.jpg}
 
 ### Sensor bestücken
 
-<img src="image/pcb-19-processor-sensor.png" alt="" height="500">
-\includegraphics[width=500pt]{image/pcb-19-processor-sensor.png}
+<img src="image/pcb-19-processor-sensor.jpg" alt="" height="500">
+\includegraphics[width=0.9\textwidth]{image/pcb-19-processor-sensor.jpg}
 
 > :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern,
 > sollte man sich vor dem Berühren des Sensors selbst entladen haben,
@@ -165,24 +165,24 @@ Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 
 In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil entfernt werden, damit das Drücken der dritten Taste funktioniert.
 
-<img src="image/ausbrechen-dritte-taste.png" alt="" height="400">
-\includegraphics[width=400pt]{image/ausbrechen-dritte-taste.png}
+<img src="image/ausbrechen-dritte-taste.jpg" alt="" height="400">
+\includegraphics[width=0.5\textwidth]{image/ausbrechen-dritte-taste.jpg}
 
 ## Sensor-Folie abziehen
 
 Ziehe nun vorsichtig die Folie vom Sensor (Chip).
 
-<img src="image/Sensor-Folie.png" alt="" height="400">
-\includegraphics[width=400pt]{image/Sensor-Folie.png}
+<img src="image/Sensor-Folie.jpg" alt="" height="400">
+\includegraphics[width=0.9\textwidth]{image/Sensor-Folie.jpg}
 
 ## Finaler Zusammenbau
 
 | | |
 | --- | ------ |
-| 1. | ![Zusammenbau 1](image/zusammenbau-1.png) |
-| 2. | ![Zusammenbau 2](image/zusammenbau-2.png) |
-| 3. | ![Zusammenbau 3](image/zusammenbau-3.png) |
-| 4. | ![Zusammenbau 4](image/zusammenbau-4.png) |
+| 1. | ![Zusammenbau 1](image/zusammenbau-1.jpg) |
+| 2. | ![Zusammenbau 2](image/zusammenbau-2.jpg) |
+| 3. | ![Zusammenbau 3](image/zusammenbau-3.jpg) |
+| 4. | ![Zusammenbau 4](image/zusammenbau-4.jpg) |
 
 Wenn alles richtig gemacht wurde und keine Kurzschlüsse gelötet wurden,
 kann die korrekte Funktion der Maus am PC getestet werden.
