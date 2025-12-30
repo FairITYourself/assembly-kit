@@ -1,5 +1,13 @@
 # USB Maus Bausatz
 
+<!--
+SPDX-FileCopyrightText: 2015 Susanne Jordan <jordan@nager-it.de>
+SPDX-FileCopyrightText: 2025 Joram Ulmke <joramulmke@proton.me>
+SPDX-FileCopyrightText: 2025 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Aktuell (Stand 12/2025) verschicken wir 3-tastige Bausätze.
 
 ## Inhaltsverzeichnis

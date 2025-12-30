@@ -1,0 +1,27 @@
+# SPDX-FileCopyrightText: 2025 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+SPDX-PackageName = "Fair IT yourself - Mouse - Assembly Instructions"
+SPDX-PackageSupplier = [
+    "Fair IT yourself e.V",
+    "Susanne Jordan (Nager IT e.V.) <jordan@nager-it.de>",
+    "Joram Ulmke <joramulmke@proton.me>",
+    "Robin Vobruba (Open Source Ecology Germany e.V.) <robin.vobruba@ose-germany.de>"
+    ]
+SPDX-PackageDownloadLocation = "https://codeberg.org/FairIT/assembly-kit"
+
+[[annotations]]
+path = "image/*.jpg"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Nager IT e.V."
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = "image/loetstation.jpg"
+precedence = "override"
+SPDX-FileCopyrightText = "OpenSprints L.L.C."
+SPDX-License-Identifier = "CC-BY-4.0"
+SPDX-FileComment = """Found on site: <https://www.opensprints.com/howto_parts_list.php>
+Download link: <https://www.opensprints.com/documentation/Weller_wes51.jpg>"""
