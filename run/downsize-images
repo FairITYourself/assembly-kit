@@ -91,7 +91,7 @@ NEW_EXT="jpg"
 mkdir -p "$img_dir"
 
 echo "INFO: Converting images to smaller versions ..."
-for orig_img_path in "$suppl_dir/image/"*.png
+for orig_img_path in "$suppl_dir/image/"*.{png,jpg}
 do
 	file_name="$(basename -- "$orig_img_path")"
 	echo "INFO: Converting image '$file_name' ..."
