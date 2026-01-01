@@ -3,7 +3,7 @@
 <!--
 SPDX-FileCopyrightText: 2015 Susanne Jordan <jordan@nager-it.de>
 SPDX-FileCopyrightText: 2025 Joram Ulmke <joramulmke@proton.me>
-SPDX-FileCopyrightText: 2025 Robin Vobruba <hoijui.quaero@gmail.com>
+SPDX-FileCopyrightText: 2025 - 2026 Robin Vobruba <hoijui.quaero@gmail.com>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
@@ -68,7 +68,7 @@ Als vorletztes werden Anschluss-Leitungen verlötet,
 da diese ansonsten während dem Bestücken und Löten stören können.
 Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
-> :warning: Immer erst ein Bein eines Bauteiles verlöten
+> **WARNUNG** Immer erst ein Bein eines Bauteiles verlöten
 > und dann den korrekten Sitz kontrollieren
 > (z.B.: liegen die Bauteile/Drähte sauber auf der Platine auf?).
 
@@ -165,7 +165,7 @@ Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 <img src="image/pcb-19-processor-sensor.jpg" alt="" width="90%">
 \includegraphics[width=0.9\textwidth]{image/pcb-19-processor-sensor.jpg}
 
-> :warning: Um Schäden des Sensors durch elektrische Ladungen zu verhindern,
+> **WARNUNG** Um Schäden des Sensors durch elektrische Ladungen zu verhindern,
 > sollte man sich vor dem Berühren des Sensors selbst entladen haben,
 > z.B. an der Erdung der Steckdose oder dem Metall eines Heizkörpers.
 
