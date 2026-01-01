@@ -74,41 +74,36 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 
 ### Schlechtes Beispiel
 
-<img src="image/pcb-9-bad-example.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-9-bad-example.jpg}
+![Schlechtes Beispiel](image/pcb-9-bad-example.jpg)
 
 ### Drahtbrücken bestücken
 
-<img src="image/pcb-10-jumpers.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-10-jumpers.jpg}
+![Drahtbrücken bestücken](image/pcb-10-jumpers.jpg)
 
 ### Kondensatoren und LED bestücken
 
-<img src="image/pcb-11-capacitors-and-leds.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-11-capacitors-and-leds.jpg}
+![Kondensatoren und LED bestücken](image/pcb-11-capacitors-and-leds.jpg)
 
 ### Taster bestücken
 
-<img src="image/pcb-12-switch-keys.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-12-switch-keys.jpg}
+![Taster bestücken](image/pcb-12-switch-keys.jpg)
 
 ### Elko bestücken
 
-<img src="image/pcb-13-electrolytic-capacitor.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-13-electrolytic-capacitor.jpg}
+![Elko bestücken](image/pcb-13-electrolytic-capacitor.jpg)
 
 ### Drehgeber bestücken
 
-<img src="image/pcb-14-rotary-encoder.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-14-rotary-encoder.jpg}
+![Drehgeber bestücken](image/pcb-14-rotary-encoder.jpg)
 
 ### USB Kabel
 
 1. Die Kabelisolation ca. 25mm vom Ende her (Hülle)
    mit einem nicht zu scharfen Messer vorsichtig einkerben.
 
-   <img src="image/usb-1-1.jpg" alt="" height="150">
-   \includegraphics[width=0.2\textwidth]{image/usb-1-1.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-1-1.jpg) | ---Markdown-made-me-do-this--- |
 
 2. Die Kabelisolation (Hülle) vorsichtig (mit dem Daumennagel) abziehen.
 
@@ -119,51 +114,54 @@ Der optische Maussensor/Prozessor wird ganz zum Schluss bestückt.
 3. Die Drahtschirmung vorsichtig abwickeln
    (die feinen Drähte können stechen wie Nadeln).
 
-   <img src="image/usb-1-3.jpg" alt="" height="150">
-   \includegraphics[width=0.4\textwidth]{image/usb-1-3.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-1-3.jpg) | ---Markdown-made-me-do-this--- |
 
 4. Drahtschirm verdrillen und den Folienschirm abwickeln.
 
-   <img src="image/usb-1-4.jpg" alt="" height="150">
-   \includegraphics[width=0.4\textwidth]{image/usb-1-4.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-1-4.jpg) | ---Markdown-made-me-do-this--- |
 
 5. Die Füllfäden mit einem Messer oder Seitenschneider abschneiden.
 
-   <img src="image/usb-2-5.jpg" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-5.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-2-5.jpg) | ---Markdown-made-me-do-this--- |
 
 6. Das Ende des verdrillten Schirmgeflechtes verzinnen.
 
-   <img src="image/usb-2-6.jpg" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-6.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-2-6.jpg) | ---Markdown-made-me-do-this--- |
 
 7. Die Isolation der farbigen Adern an den Enden vorsichtig maximal 3mm entfernen.
 
-   <img src="image/usb-2-7.jpg" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-7.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-2-7.jpg) | ---Markdown-made-me-do-this--- |
 
 8. Die Adern-Enden verzinnen.
    Die Isolation zieht sich durch die Hitze noch weiter zurück.
 
-   <img src="image/usb-2-8.jpg" alt="" height="150">
-   \includegraphics[width=150pt]{image/usb-2-8.jpg}
+   | | |
+   | --- | --- |
+   | ![Kabel Einkerbung](image/usb-2-8.jpg) | ---Markdown-made-me-do-this--- |
 
 9. Nun kann das USB Kabel in die Platine eingelötet werden.
 
-   <img src="image/pcb-17-usb-cable.jpg" alt="" width="80%">
-   \includegraphics[width=0.9\textwidth]{image/pcb-17-usb-cable.jpg}
+   ![USB Kabel einloeten](image/pcb-17-usb-cable.jpg)
 
 Eine gute Lötstelle zeichnet sich durch eine glänzende Oberfläche aus
 (mit bleihaltigem Lötzinn).
 Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 
-<img src="image/pcb-18-bad-example-2.jpg" alt="" width="70%">
-\includegraphics[width=0.9\textwidth]{image/pcb-18-bad-example-2.jpg}
+![Schlechtes Beispiel 2](image/pcb-18-bad-example-2.jpg)
 
 ### Sensor bestücken
 
-<img src="image/pcb-19-processor-sensor.jpg" alt="" width="90%">
-\includegraphics[width=0.9\textwidth]{image/pcb-19-processor-sensor.jpg}
+![Sensor bestücken](image/pcb-19-processor-sensor.jpg)
 
 > **WARNUNG** Um Schäden des Sensors durch elektrische Ladungen zu verhindern,
 > sollte man sich vor dem Berühren des Sensors selbst entladen haben,
@@ -173,15 +171,13 @@ Bleifreies Lötzinn ergibt immer eine matte Oberfläche:
 
 In der rechten Aufhängung des Scrollrad muss unten das hochstehende Mittelteil entfernt werden, damit das Drücken der dritten Taste funktioniert.
 
-<img src="image/ausbrechen-dritte-taste.jpg" alt="" height="400">
-\includegraphics[width=0.5\textwidth]{image/ausbrechen-dritte-taste.jpg}
+![Unterschale bearbeiten für dritte Taste](image/ausbrechen-dritte-taste.jpg)
 
 ## Sensor-Folie abziehen
 
 Ziehe nun vorsichtig die Folie vom Sensor (Chip).
 
-<img src="image/Sensor-Folie.jpg" alt="" height="400">
-\includegraphics[width=0.9\textwidth]{image/Sensor-Folie.jpg}
+![Sensor-Folie abziehen](image/Sensor-Folie.jpg)
 
 ## Finaler Zusammenbau
 
