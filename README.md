@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 # Fair IT Yourself - Mouse - Assembly Instructions - Deutsch
 
 [![License: CC-BY-SA-4.0](
-    https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
+    https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
     https://creativecommons.org/licenses/by-sa/4.0/)
 [![generate documents - status badge](
     https://github.com/FairITYourself/assembly-kit/actions/workflows/generate_documents.yml/badge.svg)](
