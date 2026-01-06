@@ -9,6 +9,9 @@ SPDX-License-Identifier: CC0-1.0
 [![License: CC-BY-SA-4.0](
     https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
     https://creativecommons.org/licenses/by-sa/4.0/)
+[![generate documents - status badge](
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/movedo.yml/badge.svg)](
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/movedo.yml)
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/FairIT/assembly-kit)](
     https://api.reuse.software/info/codeberg.org/FairIT/assembly-kit)
