@@ -1,5 +1,5 @@
 
-# SPDX-FileCopyrightText: 2023 Robin Vobruba <hoijui.quaero@gmail.com>
+# SPDX-FileCopyrightText: 2023 - 2026 Robin Vobruba <hoijui.quaero@gmail.com>
 #
 # SPDX-License-Identifier: Unlicense
 
@@ -13,7 +13,8 @@ on:
   release:
     types: [ published ]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Sets permissions of the GITHUB_TOKEN
+# to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -106,7 +107,6 @@ jobs:
         with:
           path: "build/"
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
