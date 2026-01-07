@@ -25,6 +25,8 @@ Die Anleitung verfügbar:
 - [als PDF]
 - [als webseite (statisch generiert)][als HTML]
 
+## Bilder
+
 Die Bilder in diesem repo sind runterskaliert.
 Die originale finden sich im repo [assembly-kit-supplements](
 https://codeberg.org/FairIT/assembly-kit-supplements).
