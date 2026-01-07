@@ -22,8 +22,8 @@ SPDX-License-Identifier: CC0-1.0
 Die Anleitung verfügbar:
 
 - [zum editieren](Bauanleitung_3_Tasten.md)
-- [als PDF](https://fairityourself.github.io/assembly-kit/pdf/Bauanleitung_3_Tasten.pdf)
-- [als webseite (statisch generiert)](https://fairityourself.github.io/assembly-kit/html/Bauanleitung_3_Tasten.html)
+- [als PDF]
+- [als webseite (statisch generiert)][als HTML]
 
 Die Bilder in diesem repo sind runterskaliert.
 Die originale finden sich im repo [assembly-kit-supplements](
@@ -32,3 +32,6 @@ Um ein neues Bild hinzuzufuegen,
 lade es in das supplements repo,
 und fuehre dann das `run/downsize-images` script in diesem repo aus,
 um die kleine version davon fuer dieses repo zu generieren.
+
+[als HTML]: https://fairityourself.github.io/assembly-kit/html/Bauanleitung_3_Tasten.html
+[als PDF]: https://fairityourself.github.io/assembly-kit/pdf/Bauanleitung_3_Tasten.pdf
