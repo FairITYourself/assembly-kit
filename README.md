@@ -17,7 +17,7 @@ SPDX-License-Identifier: CC0-1.0
     https://api.reuse.software/info/codeberg.org/FairIT/assembly-kit)
 [![made with Markdown badge](
     https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
-    http://commonmark.org)
+    https://commonmark.org)
 
 Die Anleitung verfügbar:
 
