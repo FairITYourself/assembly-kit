@@ -12,9 +12,18 @@ Aktuell (Stand 12/2025) verschicken wir 3-tastige Bausätze.
 
 ## Inhaltsverzeichnis
 
+- [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Übersicht der Einzelteile](#übersicht-der-einzelteile)
 - [Benötigte Werkzeuge](#benötigte-werkzeuge)
 - [Platine bestücken](#platine-bestücken)
+  - [Schlechtes Beispiel](#schlechtes-beispiel)
+  - [Drahtbrücken bestücken](#drahtbrücken-bestücken)
+  - [Kondensatoren und LED bestücken](#kondensatoren-und-led-bestücken)
+  - [Taster bestücken](#taster-bestücken)
+  - [Elko bestücken](#elko-bestücken)
+  - [Drehgeber bestücken](#drehgeber-bestücken)
+  - [USB Kabel](#usb-kabel)
+  - [Sensor bestücken](#sensor-bestücken)
 - [Unterschale bearbeiten für dritte Taste](#unterschale-bearbeiten-für-dritte-taste)
 - [Sensor-Folie abziehen](#sensor-folie-abziehen)
 - [Finaler Zusammenbau](#finaler-zusammenbau)
