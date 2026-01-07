@@ -26,7 +26,7 @@ Die Anleitung verfügbar:
 - [als webseite (statisch generiert)](https://fairityourself.github.io/assembly-kit/html/Bauanleitung_3_Tasten.html)
 
 Die Bilder in diesem repo sind runterskaliert.
-Dei originale finden sich im repo [assembly-kit-supplements](
+Die originale finden sich im repo [assembly-kit-supplements](
 https://codeberg.org/FairIT/assembly-kit-supplements).
 Um ein neues Bild hinzuzufuegen,
 lade es in das supplements repo,
