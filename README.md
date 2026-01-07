@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 - 2026 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# Faire Maus - Bauanleitung
+# Faire Maus - Bauanleitung - README
 
 [![License: CC-BY-SA-4.0](
     https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](

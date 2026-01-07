@@ -1,4 +1,4 @@
-# USB Maus Bausatz
+# Faire Maus - Bauanleitung
 
 <!--
 SPDX-FileCopyrightText: 2015 Susanne Jordan <jordan@nager-it.de>
