@@ -1,10 +1,10 @@
 <!--
-SPDX-FileCopyrightText: 2025 Robin Vobruba <hoijui.quaero@gmail.com>
+SPDX-FileCopyrightText: 2025 - 2026 Robin Vobruba <hoijui.quaero@gmail.com>
 
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# Fair IT Yourself - Mouse - Assembly Instructions - Deutsch
+# Faire Maus - Bauanleitung
 
 [![License: CC-BY-SA-4.0](
     https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
