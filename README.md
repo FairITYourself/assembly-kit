@@ -16,9 +16,6 @@ SPDX-License-Identifier: CC0-1.0
     https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
     https://commonmark.org)
 
-[![OSH Openness](
-   https://fairityourself.github.io/assembly-kit/osh-check/osh-badge-openness.svg)](
-   https://fairityourself.github.io/assembly-kit/osh-check/osh-report.html)
 [![check & generate documents - status badge](
     https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml/badge.svg)](
     https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml)
