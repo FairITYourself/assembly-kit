@@ -15,6 +15,9 @@ SPDX-License-Identifier: CC0-1.0
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/FairIT/assembly-kit)](
     https://api.reuse.software/info/codeberg.org/FairIT/assembly-kit)
+[![OSH Openness](
+   https://fairityourself.github.io/assembly-kit/osh-badge-openness.svg)](
+   https://fairityourself.github.io/assembly-kit/osh-report.html)
 [![made with Markdown badge](
     https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
     https://commonmark.org)
