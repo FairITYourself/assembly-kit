@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: Unlicense
 
-name: Check with OSH-Tool, Generate MoVeDo output and deploy both to pages
+name: Check OSH Openness & Generate Documentation
 
 on:
   push:
