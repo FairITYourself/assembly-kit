@@ -9,18 +9,16 @@ SPDX-License-Identifier: CC0-1.0
 [![License: CC-BY-SA-4.0](
     https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
     https://creativecommons.org/licenses/by-sa/4.0/)
-[![generate documents - status badge](
-    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml/badge.svg)](
-    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml)
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/FairIT/assembly-kit)](
     https://api.reuse.software/info/codeberg.org/FairIT/assembly-kit)
+
 [![OSH Openness](
    https://fairityourself.github.io/assembly-kit/osh-check/osh-badge-openness.svg)](
    https://fairityourself.github.io/assembly-kit/osh-check/osh-report.html)
-[![made with Markdown badge](
-    https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
-    https://commonmark.org)
+[![check & generate documents - status badge](
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml/badge.svg)](
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml)
 
 Die Anleitung verfügbar:
 
