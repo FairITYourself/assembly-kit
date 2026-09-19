@@ -10,14 +10,14 @@ SPDX-License-Identifier: CC0-1.0
     https://img.shields.io/badge/License-CC--BY--SA--4.0-blue.svg)](
     https://creativecommons.org/licenses/by-sa/4.0/)
 [![generate documents - status badge](
-    https://github.com/FairITYourself/assembly-kit/actions/workflows/generate_documents.yml/badge.svg)](
-    https://github.com/FairITYourself/assembly-kit/actions/workflows/generate_documents.yml)
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml/badge.svg)](
+    https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml)
 [![REUSE status](
     https://api.reuse.software/badge/codeberg.org/FairIT/assembly-kit)](
     https://api.reuse.software/info/codeberg.org/FairIT/assembly-kit)
 [![OSH Openness](
-   https://fairityourself.github.io/assembly-kit/osh-badge-openness.svg)](
-   https://fairityourself.github.io/assembly-kit/osh-report.html)
+   https://fairityourself.github.io/assembly-kit/osh-check/osh-badge-openness.svg)](
+   https://fairityourself.github.io/assembly-kit/osh-check/osh-report.html)
 [![made with Markdown badge](
     https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
     https://commonmark.org)
@@ -38,5 +38,5 @@ lade es in das supplements repo,
 und fuehre dann das `run/downsize-images` script in diesem repo aus,
 um die kleine version davon fuer dieses repo zu generieren.
 
-[als HTML]: https://fairityourself.github.io/assembly-kit/html/Bauanleitung_3_Tasten.html
-[als PDF]: https://fairityourself.github.io/assembly-kit/pdf/Bauanleitung_3_Tasten.pdf
+[als HTML]: https://fairityourself.github.io/assembly-kit/doc/html/Bauanleitung_3_Tasten.html
+[als PDF]: https://fairityourself.github.io/assembly-kit/doc/pdf/Bauanleitung_3_Tasten.pdf
