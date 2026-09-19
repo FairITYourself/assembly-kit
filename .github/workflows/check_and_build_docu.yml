@@ -1,12 +1,12 @@
-# SPDX-FileCopyrightText: 2023 - 2026 Robin Vobruba <hoijui.quaero@gmail.com>
+# SPDX-FileCopyrightText: 2022-2026 Robin Vobruba <hoijui.quaero@gmail.com>
 #
 # SPDX-License-Identifier: Unlicense
 
-name: generate documents
+name: Check with OSH-Tool, Generate MoVeDo output and deploy both to pages
 
 on:
   push:
-    branches: [ master, main, develop, markdown ]
+    branches: [ master, main, develop ]
   # Allows us to run this workflow manually
   # from the Actions tab on the GitHub web UI
   workflow_dispatch:
@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     container: hoijui/movedo:latest
     steps:
-      - name: "Check out the repo"
+      - name: Check out the sources
         uses: actions/checkout@v4
         with:
           submodules: true
@@ -46,13 +46,17 @@ jobs:
       - name: "Fix git repo rights"
         run: git config --global --add safe.directory "/__w/$REPO_NAME/$REPO_NAME"
 
-      - name: Fix checkout ownership
+      - name: OSH-Tool - Fix checkout ownership
         run: |
           # HACK Workaround for bug:
           # https://github.com/actions/runner/issues/2033
           mkdir -p /home/runner/work/_temp/_github_home
           printf "[safe]\n\tdirectory = /github/workspace" \
             > /home/runner/work/_temp/_github_home/.gitconfig
+
+      - name: OSH-Tool - Check/Linting
+        id: osh-check
+        uses: hoijui/osh-tool@master
 
       - name: "tree - before build"
         run: |
@@ -97,15 +101,19 @@ jobs:
           #mvd make_pdf --mvd-individual --pdf-engine=/usr/bin/xetex
           mvd create_index build/
 
-      - name: "tree - after build"
+      - name: Combine outputs
         run: |
-          pwd
-          tree
+          mv public osh-check
+          mkdir public
+          mv osh-check public/
+          mv build public/doc
+          echo '<html><body><a href="./doc/">Documentation</a><br><a href="./osh-check/">OSH-Check</a>' > public/index.html
 
       - name: Upload artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "build/"
+          path: "public/"
 
   deploy:
     environment:
