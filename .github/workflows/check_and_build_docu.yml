@@ -51,8 +51,13 @@ jobs:
           # HACK Workaround for bug:
           # https://github.com/actions/runner/issues/2033
           mkdir -p /home/runner/work/_temp/_github_home
-          printf "[safe]\n\tdirectory = /github/workspace" \
+          printf "[safe]\n\tdirectory = $GITHUB_WORKSPACE" \
             > /home/runner/work/_temp/_github_home/.gitconfig
+          # this is the same as above, but rather does not work on CI
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          # alternative fix for same issue
+          # (as the above does not always work)
+          chown -R $(id -u):$(id -g) $PWD
 
       - name: OSH-Tool - Check/Linting
         id: osh-check
