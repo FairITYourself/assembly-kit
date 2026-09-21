@@ -23,7 +23,7 @@ SPDX-License-Identifier: CC0-1.0
     https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml/badge.svg)](
     https://github.com/FairITYourself/assembly-kit/actions/workflows/check_and_build_docu.yml)
 
-Die Anleitung verfügbar:
+## Bauanleitung
 
 - [zum editieren](Bauanleitung_3_Tasten.md)
 - [als PDF]
