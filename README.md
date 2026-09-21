@@ -36,8 +36,10 @@ Die originale finden sich im repo [assembly-kit-supplements](
 https://codeberg.org/FairIT/assembly-kit-supplements).
 Um ein neues Bild hinzuzufuegen,
 lade es in das supplements repo,
-und fuehre dann das `run/downsize-images` script in diesem repo aus,
-um die kleine version davon fuer dieses repo zu generieren.
+und fuehre dann das `run/downsize-images` script in diesem repo
+lokal bei dir auf deinem Rechner aus,
+um die kleine version von alen Bildern fuer dieses repo zu generieren.
+Das selbe Prozedere kannst du benutzen um bilder zu aendern.
 
 [als HTML]: https://fairityourself.github.io/assembly-kit/doc/html/Bauanleitung_3_Tasten.html
 [als PDF]: https://fairityourself.github.io/assembly-kit/doc/pdf/Bauanleitung_3_Tasten.pdf
