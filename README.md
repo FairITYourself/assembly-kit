@@ -27,7 +27,7 @@ SPDX-License-Identifier: CC0-1.0
 
 - [zum editieren](Bauanleitung_3_Tasten.md)
 - [als PDF]
-- [als webseite (statisch generiert)][als HTML]
+- [als webseite][als HTML]
 
 ## Bilder
 
